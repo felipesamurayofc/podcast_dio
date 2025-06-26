@@ -13,7 +13,7 @@ MidJourney
 
 ElevenLabs
 
-Capcut
+Ableton Live
 
 
 ✨ Como foi feito ?
@@ -24,5 +24,5 @@ Audio gerado pela elevenLabs
 
 Midjourney Para gerar capas
 
-Capcut para tratar aúdio e adicionar sons de fundo
+Ableton Live para tratar aúdio e adicionar sons de fundo
 
