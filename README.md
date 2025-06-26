@@ -30,3 +30,5 @@ Copilot Para gerar capas
 
 Ableton Live para tratar aúdio e adicionar sons de fundo
 
+No link do Notion eu disponibilizo como foi o passo a passo do projeto.
+
