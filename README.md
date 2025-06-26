@@ -9,9 +9,11 @@ Utilizei uma cadeia de prompts para gerar cada etapa do processo criativo.
 
 ChatGPT
 
-MidJourney
+Copilot
 
 ElevenLabs
+
+Suno
 
 Ableton Live
 
@@ -22,7 +24,9 @@ Roteiro gerado via chatgpt
 
 Audio gerado pela elevenLabs
 
-Midjourney Para gerar capas
+Fundo musical gerado pelo Suno
+
+Copilot Para gerar capas
 
 Ableton Live para tratar aúdio e adicionar sons de fundo
 
